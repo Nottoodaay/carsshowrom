@@ -1,0 +1,11 @@
+.burgerBar{
+    width: 60px;
+    height: 60px;
+    display: none;
+
+}
+@media (max-width: 391px) {
+        .burgerBar{
+            display: block;
+        }
+    }
